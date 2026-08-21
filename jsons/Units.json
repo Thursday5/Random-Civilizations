@@ -1,17 +1,12 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Worker Bee",
+		"unitType": "Civilian",
+		"uniqueTo": "Beehive",
+		"replaces": "Worker",
+		"movement": 3,
+		"cost": 30,
+		"requiredTech": "Agriculture",
+		"uniques": [Can build [Land] improvements on tiles", "Automation is a primary action"]
 	}
 ]
