@@ -3,7 +3,7 @@
 		"name": "Beehive",
 		"leaderName": "Queen Bee",
 		"adjective": ["insect"],
-		"startBias": ["Avoid [Snow]",Avoid [Tundra]"]
+		"startBias": ["Avoid [Snow]","Avoid [Tundra]"]
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Ayup, good day, Queen Bee! Your workers are ready. Let's get it going now, but don't push yourself too hard.",
