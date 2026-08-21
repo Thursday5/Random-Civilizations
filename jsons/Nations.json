@@ -32,6 +32,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"unique": "HIVE_PRODUCTION",
+		"uniqueText": "Every city founded provides 1 Honey"
 		"cities": ["The Hive","Beeville","New Beeland","Big Bee","Bee Workers Union","Bee City","Beetroplois","BeeGC","Bee-jing",
 			"Beeshire"],
 	}
