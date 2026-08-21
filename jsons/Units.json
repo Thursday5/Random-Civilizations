@@ -7,6 +7,10 @@
 		"movement": 3,
 		"cost": 30,
 		"requiredTech": "Agriculture",
-		"uniques": [Can build [Land] improvements on tiles", "Automation is a primary action"]
+		"uniques": [
+			"Can build [Land] improvements on tiles", 
+			"Automation is a primary action",
+			"Ignores terrain cost"
+		]
 	}
 ]
