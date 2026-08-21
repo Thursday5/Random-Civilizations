@@ -1,6 +1,8 @@
 [
-  //Luxury Resources
+  // Luxury Resources
   {
     "name": "Honey",
     "resourceType": "Luxury",
     "uniques": ["Doesn't generate naturally"]
+  }
+]
